@@ -37,4 +37,4 @@ jobs:
       run: npm install
 
     - name: Run linters
-      run: npm dev
+      run: npm run dev
